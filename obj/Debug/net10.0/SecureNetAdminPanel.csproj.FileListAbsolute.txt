@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0\SecureNetAdminPanel.MvcApplicationPartsAssemblyInfo.cache

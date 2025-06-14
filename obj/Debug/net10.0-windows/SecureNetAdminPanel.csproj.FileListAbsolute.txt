@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\bin\Debug\net10.0-windows\SecureNetAdminPanel.exe
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\bin\Debug\net10.0-windows\SecureNetAdminPanel.deps.json
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\bin\Debug\net10.0-windows\SecureNetAdminPanel.runtimeconfig.json
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\bin\Debug\net10.0-windows\SecureNetAdminPanel.dll
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\bin\Debug\net10.0-windows\SecureNetAdminPanel.pdb
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.dll
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\refint\SecureNetAdminPanel.dll
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.pdb
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\SecureNetAdminPanel.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ProjectA\SecureNetAdminPanel\obj\Debug\net10.0-windows\ref\SecureNetAdminPanel.dll

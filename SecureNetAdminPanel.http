@@ -1,0 +1,6 @@
+@SecureNetAdminPanel_HostAddress = http://localhost:5219
+
+GET {{SecureNetAdminPanel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
